@@ -31,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/manikgupta-2004/DSA-codes/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/manikgupta-2004/DSA-codes/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
