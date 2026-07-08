@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manikgupta-2004/DSA-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/manikgupta-2004/DSA-codes/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
