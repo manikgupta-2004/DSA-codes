@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manikgupta-2004/DSA-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/manikgupta-2004/DSA-codes/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/1480-running-sum-of-1d-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manikgupta-2004/DSA-codes/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manikgupta-2004/DSA-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/manikgupta-2004/DSA-codes/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manikgupta-2004/DSA-codes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manikgupta-2004/DSA-codes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -57,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/manikgupta-2004/DSA-codes/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manikgupta-2004/DSA-codes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
@@ -75,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
